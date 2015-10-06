@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  BringOnTheStyle
-//
-//  Created by U3 on 2015-10-05.
-//  Copyright © 2015 Ten Kettles Inc. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
